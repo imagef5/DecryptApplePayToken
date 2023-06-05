@@ -3,7 +3,7 @@
 - [Decrypting Apple Pay Payment Blob Using .NET](https://www.macrosssoftware.com/2019/10/12/decrypting-apple-pay-payment-blob-using-net/)
   - [Github Source Code](https://github.com/Macross-Software/ApplePayDecryption)
 - [How to decrypt Apple Pay Payment Token using .net](https://github.com/fscopel/CSharpApplePayDecrypter#how-to-decrypt-apple-pay-payment-token-using-net)
-> .net 프로젝트를 진행하다보면 많은 소스들이 .net 4.5 framework 에서 업그레드가 되지 않고 현재까지 유지되어 오는 경우가 많은 것이 현실이고, 기업 규모가 클수록 더욱 변경이 쉽지 않아 개인적으로는 아쉬움이 있습니다. 해당 소스는 위 두소스를 참조하여 .net 4.5 framework 에 맞춰 변경 되었습니다.  
+> 해당 소스는 위 두소스를 참조하여 .net 4.5 framework 에 맞춰 변경 되었습니다.  
 > .net 4.5 이상을 사용하신다면 위 소스를 참조 하시기 바랍니다.
   
 ## 2. 애플페이 관련 참조
